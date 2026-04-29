@@ -1,7 +1,7 @@
 <template>
     <div id="footer">
         <div id="logos">
-            <img src="@/assets/miccai2026-logo.png" class="logo" alt="">
+            <img src="@/assets/miccai2026-logo-france.png" class="logo" alt="">
         </div>
         <div id="copyright">© 2026 4th International Workshop on Foundation Models for General Medical AI (MedAGI 2026)</div>
     </div>
