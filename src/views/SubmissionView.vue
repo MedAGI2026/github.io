@@ -218,8 +218,7 @@
           <div id="awards">
           <h2>Submission Site</h2><hr>
           <div class="instruction-contents">
-           <!-- <a href="https://cmt3.research.microsoft.com/MedAGI2025/" target="_blank">https://cmt3.research.microsoft.com/MedAGI2025/ </a> -->
-           Under construction.
+           <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/MedAGI" target="_blank">https://openreview.net/group?id=MICCAI.org/2026/Workshop/MedAGI </a>
           </div>
         </div>
         </div>
