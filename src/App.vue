@@ -28,7 +28,7 @@
             MICCAI 2026 4th International Workshop on<br> Foundation Models for General Medical AI
           </div>
           <div class="workshop-time" v-bind:class="{'hide-description' : this.$data.page !=='Home'}">
-            September 27 - October 1, 2026 • STRASBOURG, FRANCE
+            September 27 or October 1, 2026 • STRASBOURG, FRANCE
           </div>
         </div>
   </div>

@@ -70,7 +70,7 @@
         It aims to foster discussions that will pave the way for the evolution of task-specific medical AI systems into more generalized frameworks capable of tackling a diverse range of tasks, datasets, and domains.
         
         In doing so, it aspires to act as a catalyst in synergizing the medical domain with cutting-edge advancements in machine learning, particularly in the realm of large-scale foundation models, which we propose for the 4th Workshop on Foundation Models for General Medical AI.
-        <!-- <a target="_blank" type="application/pdf" :href="`https://nbviewer.org/github/MedAGI2025/medagi2025.github.io/blob/main/src/assets/Poster_medAGI2025.pdf`">🌟<b>FLYER</b>🌟</a> -->
+        <a target="_blank" type="application/pdf" :href="`https://nbviewer.org/github/MedAGI2026/medagi2026.github.io/blob/main/src/assets/MEDAGI26_small_LAST.pdf`">🌟<b>FLYER</b>🌟</a>
       </div>
     </div>
     <!-- End Workshop Description -->
