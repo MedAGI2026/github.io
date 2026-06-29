@@ -119,7 +119,7 @@
           <div class="due-work">Paper submission open</div>
         </div>
         <div class="date-row">
-          <div class="dates">July 1 (Wed), 2026 <br> (23:59, Pacific Time)</div>
+          <div class="dates"><del>July 1 (Wed), 2026 </del> <br> July 8 (Wed), 2026 <br> (23:59, Pacific Time)</div>
           <div class="due-work">Paper submission due</div>
         </div>
         <!-- <div class="date-row">
@@ -127,8 +127,8 @@
           <div class="due-work">Review Due</div>
         </div> -->
         <div class="date-row">
-          <!-- <div class="dates"><del>July 16 (Wed), 2025 </del> <br> July 23 (Wed), 2025 <br> (23:59, Pacific Time)</div> -->
-          <div class="dates"> July 31 (Fri), 2026 <br> (23:59, Pacific Time)</div>
+          <div class="dates"><del>July 31 (Fri), 2026 </del> <br> August 7 (Fri), 2026 <br> (23:59, Pacific Time)</div>
+          <!-- <div class="dates"> July 31 (Fri), 2026 <br> (23:59, Pacific Time)</div> -->
           <div class="due-work">Final Notification</div>
         </div>
         <!-- <div class="date-row">
@@ -136,7 +136,7 @@
           <div class="due-work">Camera-ready Due</div>
         </div> -->
         <div class="date-row">
-          <div class="dates">October 4 or 8, 2026<br></div>
+          <div class="dates">October 1, 2026<br></div>
           <div class="due-work">Workshop Date</div>
         </div>
       </div>
