@@ -120,7 +120,7 @@
         </div>
         <div class="date-row">
           <div class="dates"><del>July 1 (Wed), 2026 </del> <br> July 8 (Wed), 2026 <br> (23:59, Pacific Time)</div>
-          <div class="due-work">Paper submission due</div>
+          <div class="due-work"><br> Paper submission due</div>
         </div>
         <!-- <div class="date-row">
           <div class="dates">July 22 (Wed), 2025 <br> (23:59, Pacific Time) <br></div>
@@ -129,15 +129,15 @@
         <div class="date-row">
           <div class="dates"><del>July 31 (Fri), 2026 </del> <br> August 7 (Fri), 2026 <br> (23:59, Pacific Time)</div>
           <!-- <div class="dates"> July 31 (Fri), 2026 <br> (23:59, Pacific Time)</div> -->
-          <div class="due-work">Final Notification</div>
+          <div class="due-work"><br> Final notification</div>
         </div>
-        <!-- <div class="date-row">
-          <div class="dates"><br> September 3 (Thu), 2026<br> (23:59, Pacific Time) <br></div>
-          <div class="due-work">Camera-ready Due</div>
-        </div> -->
+        <div class="date-row">
+          <div class="dates"> August 17 (Mon), 2026<br> (23:59, Pacific Time)</div>
+          <div class="due-work">Camera-ready due</div>
+        </div>
         <div class="date-row">
           <div class="dates">October 1, 2026<br></div>
-          <div class="due-work">Workshop Date</div>
+          <div class="due-work">Workshop date</div>
         </div>
       </div>
 		</div>
