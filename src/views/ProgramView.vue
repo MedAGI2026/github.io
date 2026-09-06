@@ -14,45 +14,49 @@
         <!-- </span> -->
        <!-- Program Schedules -->
       <div id="schedule">
-        <h2>TBD</h2>
-        <!-- <h2>Schedule</h2><hr>
+        <!-- <h2>TBD</h2> -->
+        <h2>Schedule</h2><hr>
         <table class="table">
           <tr>
-            <td class="schedule-time">13:30 - 13:40</td>
+            <td class="schedule-time">8:00 - 8:10</td>
             <td class="schedule-name">Opening Remarks</td>
           </tr>
           <tr>
-            <td class="schedule-time">13:40 - 14:10</td>
+            <td class="schedule-time">8:10 - 8:40</td>
             <td class="schedule-name">
-              Keynote 1: Prof. Jing Ke, Shanghai Jiao Tong University 
-              <span class="oral-authors">Why Human Clinical Expertise Remains Indispensable in AI Pathology Image Interpretation</span>
+              Keynote 1 <!-- : Prof. Jing Ke, Shanghai Jiao Tong University
+              <span class="oral-authors">Why Human Clinical Expertise Remains Indispensable in AI Pathology Image Interpretation</span> -->
             </td>
           </tr>
           <tr>
-            <td class="schedule-time">14:10 - 15:00</td>
+            <td class="schedule-time">8:40 - 9:25</td>
             <td class="schedule-name">Oral Session 1</td>
           </tr>
           <tr>
-            <td class="schedule-time">15:00 - 16:30</td>
-            <td class="schedule-name">Poster Session  / Coffee Break (15:30 - 16:00)</td>
+            <td class="schedule-time">9:25 - 10:55</td>
+            <td class="schedule-name">Poster Session  / Coffee Break (10:00 - 10:30)</td>
           </tr>
           
           <tr>
-            <td class="schedule-time">16:30 - 17:00</td>
+            <td class="schedule-time">10:55 - 11:25</td>
             <td class="schedule-name">
-              Keynote 2: Prof. Jaewoo Kang, Korea University / AIGEN Sciences Inc. 
-              <span class="oral-authors">AI-driven Drug Discovery in the LLM Era</span>
+              Keynote 2 <!-- : Prof. Jaewoo Kang, Korea University / AIGEN Sciences Inc. 
+              <span class="oral-authors">AI-driven Drug Discovery in the LLM Era</span> -->
             </td>
           </tr>
           <tr>
-            <td class="schedule-time">17:00 - 17:50</td>
+            <td class="schedule-time">11:25 - 12:10</td>
             <td class="schedule-name">Oral Session 2</td>
           </tr>
           <tr>
-            <td class="schedule-time">17:50 - 18:00</td>
+            <td class="schedule-time">12:10 - 12:20</td>
+            <td class="schedule-name">Transition / Buffer</td>
+          </tr>
+          <tr>
+            <td class="schedule-time">12:20 - 12:30</td>
             <td class="schedule-name">Closing / Awards</td>
           </tr>
-        </table> -->
+        </table>
       </div>
 
       <!-- Oral Sessions -->
